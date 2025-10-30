@@ -87,4 +87,4 @@ Year Service has not strong correlation to high performer and average rating
 2. Navigate to the project folder : cd talent-match-intelligence
 3. Install dependencies : pip install -r requirements.txt
 4. Run the dashboard website : streamlit run talent_dashboard.py
-5. Dashboard Website : 
+5. Dashboard Website : https://yogaaprila-talent-dashboard.streamlit.app/
